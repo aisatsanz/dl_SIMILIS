@@ -1,0 +1,6 @@
+image_file,true_label,baseline_pred_label,baseline_confidence,best_pred_label,best_confidence,layout_mode,foreground_ratio,bg_type,group_key
+dataset/Нейш3А-2018-5618_orig.jpg,крышка,изразец,0.23566627502441406,крышка,0.3860247731208801,single-fragment,0.245093,white,Нейш3А-2018-5618
+dataset/Нц-45-1308_orig.jpg,изразец,крышка,0.3004612624645233,изразец,0.4565642178058624,multi-view,0.346236,white,Нц-45-1308
+dataset/Нц-33-2938_orig.jpg,тарелка,изразец,0.3002832233905792,тарелка,0.30726996064186096,single-fragment,0.246381,white,Нц-33-2938
+dataset/Нц-102-1519_orig.jpg,плитка,игрушка,0.36089810729026794,плитка,0.38911449909210205,multi-view,0.124672,white,Нц-102-1519
+dataset/БП12-Г01-5990_orig.jpg,крышка,тарелка,0.5034892559051514,крышка,0.6240100264549255,multi-view,0.396058,white,БП12-Г01-5990

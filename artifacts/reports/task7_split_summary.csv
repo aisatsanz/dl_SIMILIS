@@ -1,0 +1,5 @@
+split,n_rows,n_groups,n_classes
+pool_candidate,158,126,7
+test_open,155,126,7
+train_seed,871,461,7
+val_gold,203,126,7

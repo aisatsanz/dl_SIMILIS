@@ -1,0 +1,11 @@
+top_entropy,top_low_confidence,top_small_margin
+dataset/Нейш3А-2018-5618_orig.jpg,dataset/Нейш3А-2018-5618_orig.jpg,dataset/Нейш3А-2018-2773_orig.jpg
+dataset/КБ-2014-Р1-0378_orig.jpg,dataset/Нейш3А-2018-1232_orig.jpg,dataset/Нейш3А-2018-5618_orig.jpg
+dataset/Нц-45-1308_orig.jpg,dataset/Нц-33-2938_orig.jpg,dataset/Нц-33-2938_orig.jpg
+dataset/Нейш3А-2018-1232_orig.jpg,dataset/Нц-45-1308_orig.jpg,dataset/Нейш3А-2018-4972_orig.jpg
+dataset/Нц-33-2938_orig.jpg,dataset/Нейш3А-2018-4094_orig.jpg,dataset/КБ-2014-Р1-0716_orig.jpg
+dataset/КБ-2014-Р1-0247_orig.jpg,dataset/КБ-2014-Р6-193_orig.jpg,dataset/Нц-48-054_orig.jpg
+dataset/ЛАО-2012-М102-Ш5-203_orig.jpg,dataset/ЛАО-2012-М102-Ш5-203_orig.jpg,dataset/КБ-2014-Р6-111_orig.jpg
+dataset/Нц-102-1519_orig.jpg,dataset/Нц-46-150_orig.jpg,dataset/Нейш3А-2018-1232_orig.jpg
+dataset/КБ-2014-Р1-1299_orig.jpg,dataset/М102-2012-1-0691_orig.jpg,dataset/КБ-2014-Р6-193_orig.jpg
+dataset/Нейш3А-2018-4094_orig.jpg,dataset/Нц-102-1519_orig.jpg,dataset/Нц-45-1308_orig.jpg

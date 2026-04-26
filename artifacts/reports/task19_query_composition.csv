@@ -1,0 +1,13 @@
+strategy,budget,factor,value,count
+random,50,layout_mode,multi-view,32
+random,50,layout_mode,single-fragment,18
+random,100,layout_mode,multi-view,65
+random,100,layout_mode,single-fragment,35
+highest_entropy,50,layout_mode,multi-view,29
+highest_entropy,50,layout_mode,single-fragment,21
+highest_entropy,100,layout_mode,multi-view,65
+highest_entropy,100,layout_mode,single-fragment,35
+hybrid_entropy_diversity,50,layout_mode,multi-view,31
+hybrid_entropy_diversity,50,layout_mode,single-fragment,19
+hybrid_entropy_diversity,100,layout_mode,multi-view,66
+hybrid_entropy_diversity,100,layout_mode,single-fragment,34

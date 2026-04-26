@@ -1,0 +1,7 @@
+recommendation
+держать словари name и material в нормализованном виде
+подтвердить руками конфликтные group_key прежде чем дообучать корпус
+"хранить layout_mode, foreground_ratio, has_scale_bar, has_overlay_text в metadata"
+оставить longest-side pad как базовый preprocessing
+не использовать cross-object mosaic и агрессивный crop как default
+в первую очередь досматривать uncertain и multi-view карточки

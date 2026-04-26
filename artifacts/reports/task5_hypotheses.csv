@@ -1,0 +1,4 @@
+hypothesis
+нормализация material даст больший прирост чем смена backbone на старте
+uncertainty sampling обгонит random при одинаковом бюджете и recipe
+часть ошибок name связана с uncertain и конфликтной разметкой а не с визуалом

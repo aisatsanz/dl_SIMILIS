@@ -1,0 +1,9 @@
+item,value
+parameter_count_total,11312719
+parameter_count_trainable,8529935
+weight_source,imagenet
+embedding_shape,"(16, 256)"
+name_logits_shape,"(16, 7)"
+material_logits_shape,"(16, 6)"
+fragm_logits_shape,"(16, 2)"
+main_metric,macro_f1_name_norm

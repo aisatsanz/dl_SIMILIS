@@ -1,0 +1,11 @@
+image_file,code,name_raw,material_raw,fragm_raw,reason_flag
+dataset/М102-2012-1-0494_orig.jpg,М102-2012-1-0494,Изразец,Керамика,Фрагмент,abbr_in_description|uncertain_text|group_conflict
+dataset/М102-2012-1-0585_orig.jpg,М102-2012-1-0585,Тарелка,Фаянс,Фрагмент,abbr_in_description|uncertain_text|group_conflict
+dataset/М102-2012-1-0603_orig.jpg,М102-2012-1-0603,Изразец,Керамика,Фрагмент,abbr_in_description|uncertain_text|group_conflict
+dataset/М102-2012-1-0752_orig.jpg,М102-2012-1-0752,Тарелка,Керамика,Фрагмент,abbr_in_description|uncertain_text|group_conflict
+dataset/М102-2012-1-0827_orig.jpg,М102-2012-1-0827,Тарелка,Фаянс,Фрагмент,abbr_in_description|uncertain_text|group_conflict
+dataset/М102-2012-1-0833_orig.jpg,М102-2012-1-0833,Тарелка,Фаянс,Фрагмент,abbr_in_description|uncertain_text|group_conflict
+dataset/М102-2012-1-0843_orig.jpg,М102-2012-1-0843,Тарелка,Фаянс,Фрагмент,abbr_in_description|uncertain_text|group_conflict
+dataset/М102-2012-2-0538_orig.jpg,М102-2012-2-0538,Блюдце,Фарфор,Фрагмент,abbr_in_description|uncertain_text|group_conflict
+dataset/М102-2012-2-1068_orig.jpg,М102-2012-2-1068,Плитка,Каменная масса,Фрагмент,abbr_in_description|uncertain_text|group_conflict
+dataset/М102-2012-2-1095_orig.jpg,М102-2012-2-1095,Изразец,Керамика,Фрагмент,abbr_in_description|uncertain_text|group_conflict

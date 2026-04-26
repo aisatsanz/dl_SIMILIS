@@ -1,0 +1,8 @@
+strategy,budget,val_macro_f1,checkpoint_path,queried_groups_path,delta_vs_baseline,delta_vs_random,noise_rate_among_queried,notes
+baseline,0,0.6749335375269551,artifacts/checkpoints/baseline_best.pt,,0.0,,,fixed baseline
+random,50,0.6692842485406086,artifacts/checkpoints/sim_random_budget_50.pt,artifacts/active_learning/random_budget_50.csv,-0.0056492889863464235,,,control random
+random,100,0.6882605166702201,artifacts/checkpoints/sim_random_budget_100.pt,artifacts/active_learning/random_budget_100.csv,0.013326979143265083,,,control random
+highest_entropy,50,0.6812811401460444,artifacts/checkpoints/sim_highest_entropy_budget_50.pt,artifacts/active_learning/highest_entropy_budget_50.csv,0.006347602619089288,0.011996891605435711,,pure uncertainty
+highest_entropy,100,0.7181278376918645,artifacts/checkpoints/sim_highest_entropy_budget_100.pt,artifacts/active_learning/highest_entropy_budget_100.csv,0.04319430016490944,0.029867321021644355,,pure uncertainty
+hybrid_entropy_diversity,50,0.6881991955556266,artifacts/checkpoints/sim_hybrid_entropy_diversity_budget_50.pt,artifacts/active_learning/hybrid_budget_50.csv,0.013265658028671523,0.018914947015017947,,uncertainty shortlist + diversity pruning
+hybrid_entropy_diversity,100,0.7436061128782961,artifacts/checkpoints/sim_hybrid_entropy_diversity_budget_100.pt,artifacts/active_learning/hybrid_budget_100.csv,0.06867257535134108,0.055345596208076,,uncertainty shortlist + diversity pruning

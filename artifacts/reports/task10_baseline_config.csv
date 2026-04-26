@@ -1,0 +1,12 @@
+key,value
+device,cpu
+image_size,160
+batch_size,16
+epochs,8
+main_field,name_norm
+backbone,resnet18
+weight_source,imagenet
+backbone_lr,0.00015
+head_lr,0.0007
+label_smooth,0.05
+budgets,"[50, 100]"

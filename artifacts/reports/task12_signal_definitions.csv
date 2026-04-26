@@ -1,0 +1,4 @@
+signal,definition
+max_probability,максимальная вероятность класса
+entropy,энтропия распределения вероятностей
+margin,разница между top1 и top2 вероятностями

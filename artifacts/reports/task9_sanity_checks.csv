@@ -1,0 +1,6 @@
+check,passed
+no_group_overlap,True
+train_aug_not_in_eval,True
+paths_images_labels_aligned,True
+split_reproducible_with_same_seed,True
+pool_labels_hidden_before_query,True

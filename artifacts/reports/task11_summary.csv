@@ -1,0 +1,6 @@
+metric,value
+best_epoch,8
+best_val_macro_f1,0.6749335375269551
+val_accuracy,0.729064039408867
+weight_source,imagenet
+trainable_params,8529935

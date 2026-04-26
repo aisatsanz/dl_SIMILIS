@@ -1,0 +1,8 @@
+{
+  "notebook": "/Users/vadim/dl_project/similis_full.ipynb",
+  "baseline_checkpoint": "/Users/vadim/dl_project/artifacts/checkpoints/baseline_best.pt",
+  "simulation_results": "/Users/vadim/dl_project/artifacts/active_learning/task18_simulation_results.csv",
+  "results_table": "/Users/vadim/dl_project/artifacts/reports/task19_results_table.csv",
+  "review_table": "/Users/vadim/dl_project/artifacts/review/task14_review_table.csv",
+  "final_inference": "/Users/vadim/dl_project/artifacts/preds/final_pool_candidate_inference.csv"
+}

@@ -1,0 +1,36 @@
+{
+  "layout_mode": {
+    "multi-view": 953,
+    "single-fragment": 429,
+    "close-up": 5,
+    "NaN": 2
+  },
+  "bg_type": {
+    "white": 1356,
+    "mixed": 29,
+    "light-gray": 2,
+    "NaN": 2
+  },
+  "has_scale_bar": {
+    "false": 733,
+    "true": 654,
+    "NaN": 2
+  },
+  "has_overlay_text": {
+    "false": 841,
+    "true": 546,
+    "NaN": 2
+  },
+  "foreground_ratio_stats": {
+    "count": 1387.0,
+    "mean": 0.30444764671953856,
+    "std": 0.12307830928794714,
+    "min": 0.016846,
+    "10%": 0.18233339999999998,
+    "25%": 0.2262135,
+    "50%": 0.290448,
+    "75%": 0.3574545,
+    "90%": 0.4351234,
+    "max": 1.0
+  }
+}

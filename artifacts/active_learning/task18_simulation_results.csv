@@ -1,0 +1,8 @@
+strategy,budget,val_macro_f1,checkpoint_path,queried_groups_path
+baseline,0,0.6749335375269551,artifacts/checkpoints/baseline_best.pt,
+random,50,0.6692842485406086,artifacts/checkpoints/sim_random_budget_50.pt,artifacts/active_learning/random_budget_50.csv
+random,100,0.6882605166702201,artifacts/checkpoints/sim_random_budget_100.pt,artifacts/active_learning/random_budget_100.csv
+highest_entropy,50,0.6812811401460444,artifacts/checkpoints/sim_highest_entropy_budget_50.pt,artifacts/active_learning/highest_entropy_budget_50.csv
+highest_entropy,100,0.7181278376918645,artifacts/checkpoints/sim_highest_entropy_budget_100.pt,artifacts/active_learning/highest_entropy_budget_100.csv
+hybrid_entropy_diversity,50,0.6881991955556266,artifacts/checkpoints/sim_hybrid_entropy_diversity_budget_50.pt,artifacts/active_learning/hybrid_budget_50.csv
+hybrid_entropy_diversity,100,0.7436061128782961,artifacts/checkpoints/sim_hybrid_entropy_diversity_budget_100.pt,artifacts/active_learning/hybrid_budget_100.csv

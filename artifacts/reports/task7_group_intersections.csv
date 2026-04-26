@@ -1,0 +1,7 @@
+pair,group_intersection
+train_seed vs val_gold,0
+train_seed vs test_open,0
+train_seed vs pool_candidate,0
+val_gold vs test_open,0
+val_gold vs pool_candidate,0
+test_open vs pool_candidate,0

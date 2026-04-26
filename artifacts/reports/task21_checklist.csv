@@ -1,0 +1,10 @@
+item,value
+main_fields,"name_norm main, material_group aux, fragm_norm aux"
+splits,"train_seed, val_gold, test_open, pool_candidate"
+baseline,resnet18 multitask with projection head and layer4 tuning
+uncertainty_signals,"max_probability, entropy, margin"
+query_strategies,"random, highest_entropy, hybrid_entropy_diversity"
+budgets,"[50, 100]"
+best_strategy,hybrid_entropy_diversity @ 100
+best_delta_vs_baseline,0.06867257535134108
+attached_artifacts,"review table, queried ids, learning curves, checkpoint, inference csv"
